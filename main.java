@@ -4,6 +4,8 @@ public class main {
     {
 
         System.out.println("Hello world!");
+        System.out.println("This is a demo project");
+
 
     }
 }
